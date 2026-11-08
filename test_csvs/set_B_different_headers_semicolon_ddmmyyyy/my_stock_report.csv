@@ -1,0 +1,7 @@
+SKU;Item;On Hand;Reorder Point;Cost;Vendor;Lead Time
+P101;Phone Case;300;100;3.0;Nile Accessories;7
+P102;Power Bank 10000mAh;60;70;12.0;Delta Power;21
+P103;Bluetooth Speaker;40;25;19.0;Delta Power;14
+P104;Screen Protector;90;150;1.0;Nile Accessories;7
+P105;Laptop Stand;400;20;14.0;Giza Office Gear;10
+P106;Wireless Earbuds;0;30;30.0;Nile Accessories;12

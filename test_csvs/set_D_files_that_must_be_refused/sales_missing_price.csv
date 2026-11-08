@@ -1,0 +1,51 @@
+order_id,date,product_id,product_name,quantity
+CG-5001,2026-07-20,P101,Phone Case,2
+CG-5001,2026-07-20,P104,Screen Protector,1
+CG-5002,2026-07-20,P104,Screen Protector,2
+CG-5003,2026-07-20,P104,Screen Protector,1
+CG-5003,2026-07-20,P101,Phone Case,1
+CG-5003,2026-07-20,P106,Wireless Earbuds,2
+CG-5004,2026-07-20,P101,Phone Case,1
+CG-5004,2026-07-20,P104,Screen Protector,2
+CG-5005,2026-07-20,P104,Screen Protector,1
+CG-5006,2026-07-20,P104,Screen Protector,1
+CG-5006,2026-07-20,P102,Power Bank 10000mAh,1
+CG-5006,2026-07-20,P103,Bluetooth Speaker,1
+CG-5007,2026-07-20,P104,Screen Protector,1
+CG-5007,2026-07-20,P102,Power Bank 10000mAh,1
+CG-5008,2026-07-20,P104,Screen Protector,1
+CG-5008,2026-07-20,P101,Phone Case,2
+CG-5008,2026-07-20,P103,Bluetooth Speaker,1
+CG-5009,2026-07-20,P102,Power Bank 10000mAh,1
+CG-5009,2026-07-20,P103,Bluetooth Speaker,2
+CG-5009,2026-07-20,P104,Screen Protector,1
+CG-5010,2026-07-20,P106,Wireless Earbuds,1
+CG-5010,2026-07-20,P104,Screen Protector,1
+CG-5010,2026-07-20,P103,Bluetooth Speaker,1
+CG-5011,2026-07-20,P102,Power Bank 10000mAh,1
+CG-5012,2026-07-21,P103,Bluetooth Speaker,1
+CG-5012,2026-07-21,P104,Screen Protector,1
+CG-5012,2026-07-21,P102,Power Bank 10000mAh,2
+CG-5013,2026-07-21,P101,Phone Case,1
+CG-5014,2026-07-21,P101,Phone Case,1
+CG-5014,2026-07-21,P106,Wireless Earbuds,1
+CG-5015,2026-07-21,P101,Phone Case,1
+CG-5016,2026-07-21,P101,Phone Case,1
+CG-5017,2026-07-21,P101,Phone Case,1
+CG-5017,2026-07-21,P104,Screen Protector,1
+CG-5017,2026-07-21,P103,Bluetooth Speaker,1
+CG-5018,2026-07-21,P104,Screen Protector,1
+CG-5019,2026-07-21,P104,Screen Protector,2
+CG-5019,2026-07-21,P106,Wireless Earbuds,1
+CG-5019,2026-07-21,P103,Bluetooth Speaker,1
+CG-5020,2026-07-21,P101,Phone Case,1
+CG-5021,2026-07-21,P101,Phone Case,2
+CG-5021,2026-07-21,P104,Screen Protector,1
+CG-5022,2026-07-21,P104,Screen Protector,1
+CG-5022,2026-07-21,P101,Phone Case,1
+CG-5022,2026-07-21,P102,Power Bank 10000mAh,1
+CG-5023,2026-07-21,P101,Phone Case,1
+CG-5023,2026-07-21,P106,Wireless Earbuds,1
+CG-5023,2026-07-21,P105,Laptop Stand,1
+CG-5024,2026-07-21,P102,Power Bank 10000mAh,2
+CG-5024,2026-07-21,P104,Screen Protector,2

@@ -1,0 +1,7 @@
+product_id,name,supplier,stock,reorder_level,lead_time,daily_demand,coverage,growth_pct,below_reorder,risk,reorder_qty,est_cost
+P004,Ergonomic Office Chair,Delta Home Supplies,2,5,28,0.533,3.8,,True,critical,21,1722.0
+P006,Gel Pen Set,BrightSource Wholesale,40,90,7,8.233,4.9,-3.4,True,critical,133,266.0
+P002,USB-C Hub,Nile Tech Distribution,45,50,14,5.733,7.8,9.1,True,critical,116,2088.0
+P003,LED Desk Lamp,Delta Home Supplies,33,30,10,2.9,11.4,-24.4,False,high,37,481.0
+P001,Wireless Mouse,Nile Tech Distribution,75,60,14,4.767,15.7,21.3,False,high,59,649.0
+P007,Reusable Water Bottle,GreenLeaf Goods,70,80,12,4.033,17.4,22.0,True,medium,35,192.5

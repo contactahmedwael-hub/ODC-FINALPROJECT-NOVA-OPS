@@ -1,0 +1,121 @@
+feedback_id,date,rating,feedback_text,product_id
+CF001,2026-09-29,2,The courier delayed my order by a week.,P102
+CF002,2026-08-04,10,"Solid quality, would recommend.",P106
+CF003,2026-09-05,2,Overpriced compared with other shops.,P101
+CF004,2026-08-18,10,"Great product, works exactly as described.",P104
+CF005,2026-07-25,8,"Great product, works exactly as described.",P104
+CF006,2026-08-01,10,Really happy with this purchase.,P104
+CF007,2026-08-22,8,"Solid quality, would recommend.",P104
+CF008,2026-08-23,4,Unavailable for weeks now.,P102
+CF009,2026-08-08,8,"Excellent value, very happy.",P101
+CF010,2026-08-10,4,"Parcel arrived late, almost two weeks after the date promised.",P102
+CF011,2026-08-23,4,"Out of stock again, no restock date.",P102
+CF012,2026-08-31,10,Really happy with this purchase.,P104
+CF013,2026-08-27,10,"Excellent value, very happy.",P101
+CF014,2026-10-13,8,"Great product, works exactly as described.",P104
+CF015,2026-08-17,6,The courier delayed my order by a week.,P102
+CF016,2026-10-07,10,"Great product, works exactly as described.",P104
+CF017,2026-10-12,2,"Out of stock again, no restock date.",P106
+CF018,2026-09-17,10,"Great product, works exactly as described.",P102
+CF019,2026-07-28,4,Too expensive for what you get.,P101
+CF020,2026-08-06,4,Overpriced compared with other shops.,P101
+CF021,2026-08-31,2,The courier delayed my order by a week.,P102
+CF022,2026-08-12,8,"Excellent value, very happy.",P104
+CF023,2026-09-27,8,"Excellent value, very happy.",P104
+CF024,2026-10-02,2,"Out of stock again, no restock date.",P106
+CF025,2026-08-23,8,"Excellent value, very happy.",P102
+CF026,2026-08-21,2,"Out of stock again, no restock date.",P102
+CF027,2026-08-02,8,"Great product, works exactly as described.",P101
+CF028,2026-09-07,2,Overpriced compared with other shops.,P101
+CF029,2026-08-11,4,Unavailable for weeks now.,P106
+CF030,2026-10-13,4,Too expensive for what you get.,P101
+CF031,2026-08-14,6,Unavailable for weeks now.,P106
+CF032,2026-07-22,10,"Great product, works exactly as described.",P104
+CF033,2026-10-18,4,"Feels flimsy, the casing cracked.",P103
+CF034,2026-08-25,2,"Parcel arrived late, almost two weeks after the date promised.",P102
+CF035,2026-08-07,6,Overpriced compared with other shops.,P101
+CF036,2026-09-23,2,Earbuds are always sold out.,P106
+CF037,2026-08-18,6,"Parcel arrived late, almost two weeks after the date promised.",P102
+CF038,2026-10-20,8,"Solid quality, would recommend.",P104
+CF039,2026-10-13,10,"Great product, works exactly as described.",P104
+CF040,2026-08-22,10,Really happy with this purchase.,P106
+CF041,2026-09-30,4,Earbuds are always sold out.,P102
+CF042,2026-07-26,10,Really happy with this purchase.,P103
+CF043,2026-09-04,10,"Solid quality, would recommend.",P104
+CF044,2026-08-10,10,"Solid quality, would recommend.",P104
+CF045,2026-07-26,10,"Excellent value, very happy.",P104
+CF046,2026-08-27,10,"Solid quality, would recommend.",P106
+CF047,2026-08-31,2,"Faulty unit, the sound cuts out all the time.",P103
+CF048,2026-09-22,10,"Excellent value, very happy.",P101
+CF049,2026-08-16,10,"Solid quality, would recommend.",P104
+CF050,2026-09-05,10,"Solid quality, would recommend.",P104
+CF051,2026-09-22,10,"Solid quality, would recommend.",P106
+CF052,2026-10-05,2,Speaker crackles and stopped working after a week.,P103
+CF053,2026-08-03,10,Really happy with this purchase.,P101
+CF054,2026-09-29,10,"Excellent value, very happy.",P104
+CF055,2026-09-02,8,"Solid quality, would recommend.",P101
+CF056,2026-08-28,8,Really happy with this purchase.,P104
+CF057,2026-10-12,8,"Excellent value, very happy.",P106
+CF058,2026-09-14,10,"Great product, works exactly as described.",P104
+CF059,2026-07-28,10,Really happy with this purchase.,P104
+CF060,2026-08-12,2,Overpriced compared with other shops.,P101
+CF061,2026-10-08,10,"Great product, works exactly as described.",P102
+CF062,2026-10-13,4,Unavailable for weeks now.,P102
+CF063,2026-08-11,4,Unavailable for weeks now.,P106
+CF064,2026-08-06,10,"Solid quality, would recommend.",P104
+CF065,2026-08-05,2,Earbuds are always sold out.,P106
+CF066,2026-08-07,10,"Excellent value, very happy.",P104
+CF067,2026-08-09,8,Really happy with this purchase.,P104
+CF068,2026-09-08,6,Earbuds are always sold out.,P102
+CF069,2026-10-10,10,"Excellent value, very happy.",P104
+CF070,2026-08-10,6,"Out of stock again, no restock date.",P102
+CF071,2026-09-12,8,"Excellent value, very happy.",P105
+CF072,2026-08-07,4,Overpriced compared with other shops.,P101
+CF073,2026-09-24,10,"Great product, works exactly as described.",P104
+CF074,2026-10-10,4,Overpriced compared with other shops.,P101
+CF075,2026-08-22,10,"Solid quality, would recommend.",P104
+CF076,2026-08-13,10,"Solid quality, would recommend.",P101
+CF077,2026-10-16,8,"Solid quality, would recommend.",P101
+CF078,2026-08-24,10,Really happy with this purchase.,P104
+CF079,2026-09-02,10,"Excellent value, very happy.",P104
+CF080,2026-07-20,6,Too expensive for what you get.,P101
+CF081,2026-09-29,4,Too expensive for what you get.,P101
+CF082,2026-10-01,10,"Solid quality, would recommend.",P101
+CF083,2026-08-19,10,Really happy with this purchase.,P104
+CF084,2026-09-12,10,"Excellent value, very happy.",P104
+CF085,2026-08-12,10,"Great product, works exactly as described.",P101
+CF086,2026-09-25,10,"Solid quality, would recommend.",P103
+CF087,2026-09-09,8,"Great product, works exactly as described.",P104
+CF088,2026-09-16,4,Earbuds are always sold out.,P106
+CF089,2026-08-15,4,Too expensive for what you get.,P101
+CF090,2026-08-18,4,Unavailable for weeks now.,P106
+CF091,2026-09-08,4,Overpriced compared with other shops.,P101
+CF092,2026-09-20,10,Really happy with this purchase.,P104
+CF093,2026-07-21,8,"Great product, works exactly as described.",P104
+CF094,2026-07-25,10,"Great product, works exactly as described.",P104
+CF095,2026-09-21,10,Really happy with this purchase.,P101
+CF096,2026-09-01,10,"Great product, works exactly as described.",P101
+CF097,2026-10-08,10,"Great product, works exactly as described.",P102
+CF098,2026-08-31,10,Really happy with this purchase.,P101
+CF099,2026-10-17,2,Too expensive for what you get.,P101
+CF100,2026-09-23,10,"Great product, works exactly as described.",P101
+CF101,2026-08-03,6,Overpriced compared with other shops.,P101
+CF102,2026-09-08,8,"Excellent value, very happy.",P102
+CF103,2026-07-27,10,"Solid quality, would recommend.",P104
+CF104,2026-09-18,8,"Great product, works exactly as described.",P102
+CF105,2026-09-04,8,Really happy with this purchase.,P105
+CF106,2026-07-28,4,Too expensive for what you get.,P101
+CF107,2026-09-17,4,Too expensive for what you get.,P101
+CF108,2026-09-30,10,"Excellent value, very happy.",P104
+CF109,2026-10-11,10,"Solid quality, would recommend.",P104
+CF110,2026-08-19,4,Earbuds are always sold out.,P102
+CF111,2026-07-26,10,Really happy with this purchase.,P104
+CF112,2026-07-21,8,"Solid quality, would recommend.",P104
+CF113,2026-09-23,8,"Solid quality, would recommend.",P104
+CF114,2026-08-05,2,Too expensive for what you get.,P101
+CF115,2026-09-26,10,"Solid quality, would recommend.",P104
+CF116,2026-10-14,2,Earbuds are always sold out.,P102
+CF117,2026-10-16,4,Unavailable for weeks now.,P106
+CF118,2026-07-20,4,Overpriced compared with other shops.,P101
+CF119,2026-08-07,8,"Great product, works exactly as described.",P104
+CF120,2026-07-24,10,"Excellent value, very happy.",P104

@@ -1,0 +1,9 @@
+product_id,product_name,stock_quantity,reorder_level,unit_cost,supplier,lead_time_days
+P001,Wireless Mouse,75,60,11.0,Nile Tech Distribution,14
+P002,USB-C Hub,45,50,18.0,Nile Tech Distribution,14
+P003,LED Desk Lamp,33,30,13.0,Delta Home Supplies,10
+P004,Ergonomic Office Chair,2,5,82.0,Delta Home Supplies,28
+P005,Notebook 3-Pack,420,120,3.5,BrightSource Wholesale,7
+P006,Gel Pen Set,40,90,2.0,BrightSource Wholesale,7
+P007,Reusable Water Bottle,70,80,5.5,GreenLeaf Goods,12
+P008,Backpack,90,20,20.0,Delta Home Supplies,10

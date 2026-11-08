@@ -1,0 +1,101 @@
+feedback_id,date,rating,feedback_text,product_id
+F001,2026-08-01,5,Really happy with this purchase.,P005
+F002,2026-09-18,4,"Solid quality, would recommend.",P005
+F003,2026-08-05,5,"Great product, works exactly as described.",P005
+F004,2026-09-09,4,Really happy with this purchase.,P003
+F005,2026-09-28,5,"Solid quality, would recommend.",P007
+F006,2026-08-22,2,Staff were rude when I asked about a return.,P007
+F007,2026-08-02,3,Always out of stock when I try to order.,P006
+F008,2026-08-15,4,Really happy with this purchase.,P003
+F009,2026-09-04,3,Unavailable for weeks now.,P002
+F010,2026-08-13,4,"Solid quality, would recommend.",P005
+F011,2026-09-29,3,Delivery took far too long and tracking never updated.,P001
+F012,2026-09-06,5,Really happy with this purchase.,P005
+F013,2026-08-11,5,"Excellent value, very happy.",P005
+F014,2026-09-27,2,"Sold out again, no restock date given.",P006
+F015,2026-08-14,4,"Great product, works exactly as described.",P005
+F016,2026-09-02,5,"Great product, works exactly as described.",P005
+F017,2026-08-28,5,"Excellent value, very happy.",P005
+F018,2026-08-26,5,"Excellent value, very happy.",P006
+F019,2026-09-29,4,"Solid quality, would recommend.",P005
+F020,2026-09-06,4,"Excellent value, very happy.",P006
+F021,2026-08-11,5,Really happy with this purchase.,P003
+F022,2026-08-01,2,Always out of stock when I try to order.,P006
+F023,2026-08-27,3,"Parcel arrived late, almost two weeks after the promised date.",P001
+F024,2026-08-25,2,"Feels flimsy and cheap, poor build quality.",P003
+F025,2026-08-27,2,Broke after a few days of normal use.,P003
+F026,2026-09-14,2,Always out of stock when I try to order.,P006
+F027,2026-08-08,1,Unavailable for weeks now.,P006
+F028,2026-09-08,5,"Solid quality, would recommend.",P005
+F029,2026-08-08,2,The courier delayed my order by a week.,P001
+F030,2026-09-10,5,"Solid quality, would recommend.",P003
+F031,2026-08-13,1,Delivery took far too long and tracking never updated.,P001
+F032,2026-08-15,2,"Sold out again, no restock date given.",P006
+F033,2026-08-18,5,Really happy with this purchase.,P006
+F034,2026-08-24,4,Really happy with this purchase.,P002
+F035,2026-09-26,4,Really happy with this purchase.,P005
+F036,2026-08-21,5,Really happy with this purchase.,P005
+F037,2026-08-07,4,"Solid quality, would recommend.",P007
+F038,2026-09-30,5,Really happy with this purchase.,P005
+F039,2026-08-17,2,"Sold out again, no restock date given.",P002
+F040,2026-09-30,1,Always out of stock when I try to order.,P006
+F041,2026-08-31,5,Really happy with this purchase.,P007
+F042,2026-08-09,3,"Faulty unit, the light flickers constantly.",P003
+F043,2026-09-23,5,Really happy with this purchase.,P005
+F044,2026-09-18,4,"Excellent value, very happy.",P001
+F045,2026-08-24,4,"Great product, works exactly as described.",P005
+F046,2026-08-23,3,Support team ignored my refund request.,P007
+F047,2026-08-25,4,Really happy with this purchase.,P006
+F048,2026-09-14,4,Really happy with this purchase.,P005
+F049,2026-08-21,1,Support team ignored my refund request.,P007
+F050,2026-08-18,2,Unavailable for weeks now.,P002
+F051,2026-08-17,5,Really happy with this purchase.,P006
+F052,2026-08-23,3,Always out of stock when I try to order.,P006
+F053,2026-08-25,4,Really happy with this purchase.,P006
+F054,2026-09-30,5,"Solid quality, would recommend.",P001
+F055,2026-08-03,5,Really happy with this purchase.,P005
+F056,2026-09-12,5,Really happy with this purchase.,P006
+F057,2026-09-23,4,Really happy with this purchase.,P002
+F058,2026-09-01,3,Delivery took far too long and tracking never updated.,P002
+F059,2026-09-13,5,"Great product, works exactly as described.",P005
+F060,2026-08-15,2,"Sold out again, no restock date given.",P002
+F061,2026-08-20,1,"Sold out again, no restock date given.",P002
+F062,2026-09-19,5,Really happy with this purchase.,P001
+F063,2026-09-05,5,"Great product, works exactly as described.",P003
+F064,2026-09-01,5,"Great product, works exactly as described.",P005
+F065,2026-09-25,4,"Great product, works exactly as described.",P006
+F066,2026-08-19,1,"Parcel arrived late, almost two weeks after the promised date.",P002
+F067,2026-08-13,4,Really happy with this purchase.,P003
+F068,2026-09-22,2,The courier delayed my order by a week.,P001
+F069,2026-08-20,2,"Sold out again, no restock date given.",P006
+F070,2026-09-04,2,Unavailable for weeks now.,P002
+F071,2026-09-16,4,Really happy with this purchase.,P002
+F072,2026-09-17,2,Delivery took far too long and tracking never updated.,P002
+F073,2026-08-13,5,"Solid quality, would recommend.",P006
+F074,2026-08-13,4,"Great product, works exactly as described.",P005
+F075,2026-09-22,2,Always out of stock when I try to order.,P006
+F076,2026-09-06,5,Really happy with this purchase.,P005
+F077,2026-08-23,5,Really happy with this purchase.,P005
+F078,2026-09-08,4,"Solid quality, would recommend.",P007
+F079,2026-08-27,5,"Solid quality, would recommend.",P005
+F080,2026-08-02,5,"Excellent value, very happy.",P005
+F081,2026-09-17,4,"Great product, works exactly as described.",P001
+F082,2026-09-24,2,"Sold out again, no restock date given.",P006
+F083,2026-08-08,5,"Solid quality, would recommend.",P002
+F084,2026-08-26,2,"Sold out again, no restock date given.",P002
+F085,2026-08-15,5,"Great product, works exactly as described.",P008
+F086,2026-09-19,3,"Sold out again, no restock date given.",P006
+F087,2026-09-04,5,"Great product, works exactly as described.",P005
+F088,2026-08-04,4,Really happy with this purchase.,P001
+F089,2026-09-06,5,Really happy with this purchase.,P005
+F090,2026-09-25,1,The courier delayed my order by a week.,P001
+F091,2026-09-01,4,"Excellent value, very happy.",P002
+F092,2026-08-15,2,"Sold out again, no restock date given.",P006
+F093,2026-08-28,1,"Feels flimsy and cheap, poor build quality.",P003
+F094,2026-09-07,5,Really happy with this purchase.,P005
+F095,2026-08-10,5,"Great product, works exactly as described.",P005
+F096,2026-08-26,4,"Solid quality, would recommend.",P004
+F097,2026-08-04,5,Really happy with this purchase.,P005
+F098,2026-09-30,3,Staff were rude when I asked about a return.,P007
+F099,2026-08-26,3,Support team ignored my refund request.,P007
+F100,2026-08-08,2,"Sold out again, no restock date given.",P006
